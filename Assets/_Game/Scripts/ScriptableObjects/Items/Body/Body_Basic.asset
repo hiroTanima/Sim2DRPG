@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ab79b194b1569b4c9184bd5bf7c2c49, type: 3}
+  m_Name: Body_Basic
+  m_EditorClassIdentifier: 
+  itemName: Basic Body
+  itemType: 0
+  itemIndex: 0
+  itemIcon: {fileID: 1208574988, guid: 60d1028f45ac2524aa1a76a98f8e8d81, type: 3}
+  itemPrice: 1
+  idle_Down: {fileID: 7400000, guid: 02b13aa7b2af3a943af994a171a71105, type: 2}
+  idle_Left: {fileID: 7400000, guid: e786bb01e2b15444784dc1214361ccf5, type: 2}
+  idle_Right: {fileID: 7400000, guid: 9e8c8c115efe81643b79fef180c9d72a, type: 2}
+  idle_Up: {fileID: 7400000, guid: 6712315f06fd847479f776224ac3937b, type: 2}
+  walk_Down: {fileID: 7400000, guid: 044fa73ec8edbc74e8c06d726a24a716, type: 2}
+  walk_Left: {fileID: 7400000, guid: b9bf0e3e41d51ae4aadff8444fe6154f, type: 2}
+  walk_Right: {fileID: 7400000, guid: 7a20eeb13e41f42428aa9dd4da89b218, type: 2}
+  walk_Up: {fileID: 7400000, guid: 64282d6dadd06e940bfade2dd5751819, type: 2}

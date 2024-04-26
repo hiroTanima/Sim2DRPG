@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ab79b194b1569b4c9184bd5bf7c2c49, type: 3}
+  m_Name: Outfit_Armor_Yellow
+  m_EditorClassIdentifier: 
+  itemName: Armor Yellow
+  itemType: 2
+  itemIndex: 1
+  itemIcon: {fileID: 1346727422, guid: 859f4a410bbb36646a4c19b8aa2ee14f, type: 3}
+  itemPrice: 2.35
+  idle_Down: {fileID: 7400000, guid: 0ce3bbb0141b49e4493dcde7d9d99766, type: 2}
+  idle_Left: {fileID: 7400000, guid: 6dc59b70432d364418a1af72676b8c7c, type: 2}
+  idle_Right: {fileID: 7400000, guid: c489205f5bfcbb048b3e435c43abd715, type: 2}
+  idle_Up: {fileID: 7400000, guid: 099a30c8b93d1884f9cc837bdf1c8938, type: 2}
+  walk_Down: {fileID: 7400000, guid: df04b413170631047b26932af188e2dc, type: 2}
+  walk_Left: {fileID: 7400000, guid: 0f06cde90fa8c02429bdce52bb963f7c, type: 2}
+  walk_Right: {fileID: 7400000, guid: 48b2d0abef27dd343b91656e942bac96, type: 2}
+  walk_Up: {fileID: 7400000, guid: 1fcbe5d8bf4ef7e42a82127db09cc326, type: 2}

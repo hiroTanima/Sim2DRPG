@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ab79b194b1569b4c9184bd5bf7c2c49, type: 3}
+  m_Name: Hair_Long2
+  m_EditorClassIdentifier: 
+  itemName: Long Hair 2
+  itemType: 1
+  itemIndex: 1
+  itemIcon: {fileID: 2005616617, guid: 94c7a9827c424fe42b58af3709b94418, type: 3}
+  itemPrice: 2.35
+  idle_Down: {fileID: 7400000, guid: b4bb1cf19ecc20541a86efff364b19e4, type: 2}
+  idle_Left: {fileID: 7400000, guid: 1e8514ccfcc83e146b344a249c8f3c21, type: 2}
+  idle_Right: {fileID: 7400000, guid: 54f7a34baaa33f346847ce22d17955f2, type: 2}
+  idle_Up: {fileID: 7400000, guid: 26eeb591ee6521c42af88c3e102cdc52, type: 2}
+  walk_Down: {fileID: 7400000, guid: a392241a5d9dac14fa9d00fb813c4809, type: 2}
+  walk_Left: {fileID: 7400000, guid: 517d05a67b25e4e498092e481e8c9a06, type: 2}
+  walk_Right: {fileID: 7400000, guid: ceef8210d341b454c91e782f8fc8ecbe, type: 2}
+  walk_Up: {fileID: 7400000, guid: 3c6b5605774485048a468b48bbf2c6f1, type: 2}
